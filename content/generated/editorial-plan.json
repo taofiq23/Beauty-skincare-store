@@ -1,0 +1,44 @@
+{
+  "updatedAt": "2026-03-13",
+  "clusters": [
+    {
+      "slug": "cleansers",
+      "primaryKeywordSet": [
+        "best face cleanser",
+        "cleanser for sensitive skin",
+        "cleanser for acne-prone skin"
+      ],
+      "funnel": [
+        "how-to-choose-a-cleanser",
+        "best-face-cleansers",
+        "cerave-hydrating-facial-cleanser-vs-cetaphil-face-wash"
+      ]
+    },
+    {
+      "slug": "moisturizers",
+      "primaryKeywordSet": [
+        "best moisturizer for dry skin",
+        "best moisturizer for sensitive skin",
+        "retinol for beginners"
+      ],
+      "funnel": [
+        "how-to-choose-a-moisturizer",
+        "best-moisturizers-for-sensitive-skin",
+        "vanicream-facial-moisturizer-vs-toleriane-double-repair-face-moisturiser"
+      ]
+    },
+    {
+      "slug": "treatments",
+      "primaryKeywordSet": [
+        "best vitamin c serum",
+        "how to choose acne treatment",
+        "best acne patch"
+      ],
+      "funnel": [
+        "how-to-choose-a-vitamin-c-serum",
+        "best-vitamin-c-serums",
+        "pure-vitamin-c-serum-vs-ordinary-ascorbyl-glucoside-solution-12"
+      ]
+    }
+  ]
+}

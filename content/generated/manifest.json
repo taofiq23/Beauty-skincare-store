@@ -1,0 +1,16 @@
+{
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "counts": {
+    "products": 7,
+    "reviews": 7,
+    "bestLists": 3,
+    "comparisons": 2,
+    "guides": 5,
+    "categories": 3,
+    "keywordClusters": 25,
+    "seoBriefs": 25,
+    "publishQueue": 25,
+    "qaFailures": 0,
+    "productQaFailures": 0
+  }
+}

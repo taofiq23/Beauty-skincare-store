@@ -1,0 +1,51 @@
+{
+  "slug": "top-picks",
+  "title": "Best Home Appliances and Coffee Gear: Top Picks",
+  "description": "A ranked shortlist of home appliances, coffee gear, air treatment devices, and comfort picks built to help buyers narrow the field faster.",
+  "intro": "This page is the main shortlist for the site. It is built around home appliances, kitchen gear, coffee tools, air treatment products, and comfort devices that show a strong blend of bestseller proof, search demand, evergreen appeal, and realistic affiliate upside. It is meant for buyers who want the fastest path from broad product research into a tighter shortlist of pages worth opening next.",
+  "highlights": [
+    "Primary niche only: home appliances, coffee gear, air treatment, comfort, and cleaning devices",
+    "Rankings blend bestseller proof, trend velocity, Google demand, evergreen value, and affiliate potential",
+    "Use this page to narrow the field before opening individual review pages"
+  ],
+  "productSlugs": [
+    "levoit-air-purifier",
+    "keurig-k-elite-single-serve-k-cup-pod",
+    "hamilton-beach-2-way-programmable-coffee-maker",
+    "black-decker-12-cup-digital-coffee-maker-washable",
+    "mueller-home-12-cup-red-coffee-maker",
+    "magic-bullet-blender-small-silver",
+    "black-decker-one-touch-coffee-grinder-2-3",
+    "crock-pot-7-quart-oval-manual-slow",
+    "nostalgia-3-in-1-breakfast-station",
+    "trendplain-16oz-470ml-glass-olive-oil-sprayer",
+    "coffee-mug-warmer-fastest-heating",
+    "bella-2-slice-slim-toaster-kitchenware",
+    "extra-large-expandable-silverware-organizer-bpa-free"
+  ],
+  "faq": [
+    {
+      "question": "How are products ranked on this page?",
+      "answer": "Each product is scored on trend strength, bestseller position, Google demand signals, evergreen stability, profit potential, and niche fit."
+    },
+    {
+      "question": "Why are health and skincare products not leading this list?",
+      "answer": "Those products exist only as a small test bucket. The site is primarily optimized around home appliances, coffee, kitchen, air, and comfort products."
+    }
+  ],
+  "relatedGuides": [
+    "product-buying-guide",
+    "how-to-choose-coffee-gear",
+    "how-to-choose-kitchen-appliances"
+  ],
+  "relatedReviews": [
+    "levoit-air-purifier",
+    "keurig-k-elite-single-serve-k-cup-pod",
+    "hamilton-beach-2-way-programmable-coffee-maker",
+    "black-decker-12-cup-digital-coffee-maker-washable",
+    "mueller-home-12-cup-red-coffee-maker"
+  ],
+  "relatedComparisons": [
+    "keurig-k-elite-single-serve-k-cup-pod-vs-hamilton-beach-2-way-programmable-coffee-maker"
+  ]
+}

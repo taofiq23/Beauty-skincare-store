@@ -1,0 +1,46 @@
+{
+  "name": "pickstack-affiliate-framework",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "discover-products": "tsx automation/crawler/discover-products.ts",
+    "import-manual-links": "tsx automation/manual/import-manual-links.ts",
+    "import-page-url": "tsx automation/manual/import-page-url.ts",
+    "run-manual-engine": "tsx automation/manual/run-manual-engine.ts",
+    "run-page-import-engine": "tsx automation/manual/run-page-import-engine.ts",
+    "run-single-link": "tsx automation/manual/run-single-link.ts",
+    "sync-generated-content": "tsx automation/manual/sync-generated-content.ts",
+    "refresh-generated-galleries": "tsx automation/manual/refresh-generated-galleries.ts",
+    "score-products": "tsx automation/workers/score-products.ts",
+    "open-associate-login": "tsx automation/affiliate/open-associate-login.ts",
+    "fetch-affiliate-links": "tsx automation/affiliate/fetch-affiliate-links.ts",
+    "build-keyword-clusters": "tsx automation/seo/build-keyword-clusters.ts",
+    "generate-seo-briefs": "tsx automation/seo/generate-seo-briefs.ts",
+    "generate-content": "tsx automation/seo/generate-content.ts",
+    "run-content-qa": "tsx automation/qa/validate-content.ts",
+    "generate-pages": "tsx automation/generator/generate-pages.ts",
+    "build-publish-queue": "tsx automation/workers/build-publish-queue.ts",
+    "build-analytics-report": "tsx automation/analytics/build-report.ts",
+    "run-engine": "tsx automation/run-engine.ts"
+  },
+  "dependencies": {
+    "next": "^14.2.35",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "20.14.10",
+    "@types/react": "18.3.3",
+    "@types/react-dom": "18.3.0",
+    "autoprefixer": "10.4.19",
+    "postcss": "8.4.39",
+    "playwright": "^1.52.0",
+    "tailwindcss": "3.4.6",
+    "tsx": "^4.20.6",
+    "typescript": "5.5.3"
+  }
+}
