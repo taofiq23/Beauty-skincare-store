@@ -36,20 +36,12 @@
   ],
   "featureSnapshot": [
     {
-      "label": "Product type",
-      "value": "Cleanser"
+      "label": "Category",
+      "value": "Cleansers"
     },
     {
-      "label": "Main skin goal",
-      "value": "Daily cleansing"
-    },
-    {
-      "label": "Texture / format",
-      "value": "Gel-cream texture"
-    },
-    {
-      "label": "Routine slot",
-      "value": "First routine step"
+      "label": "Routine role",
+      "value": "Daily face cleansing"
     },
     {
       "label": "Price range",
@@ -103,23 +95,23 @@
   ],
   "alternatives": [
     {
-      "label": "Top alternative",
+      "label": "Alternative to compare",
       "title": "Hydro Boost Gel Cream",
-      "summary": "Hydro Boost Gel Cream is worth opening next if you want to compare a different cleanser angle before making the final Amazon click.",
+      "summary": "Hydro Boost Gel Cream is worth opening next if you want a different take on this cleanser category before checkout.",
       "priceText": "$20-$25",
       "reviewUrl": "/reviews/neutrogena-hydro-boost"
     },
     {
       "label": "Value alternative",
       "title": "Vanicream Gentle Facial Cleanser with Pump Dispenser",
-      "summary": "Vanicream Gentle Facial Cleanser with Pump Dispenser is worth opening next if you want to compare a different cleanser angle before making the final Amazon click.",
+      "summary": "Vanicream Gentle Facial Cleanser with Pump Dispenser is worth opening next if you want a different take on this cleanser category before checkout.",
       "priceText": "$21-$27",
       "reviewUrl": "/reviews/vanicream-gentle-facial-cleanser-with-pump-dispenser"
     },
     {
       "label": "Another option",
       "title": "Toleriane Purifying Foaming Facial Cleanser",
-      "summary": "Toleriane Purifying Foaming Facial Cleanser is worth opening next if you want to compare a different cleanser angle before making the final Amazon click.",
+      "summary": "Toleriane Purifying Foaming Facial Cleanser is worth opening next if you want a different take on this cleanser category before checkout.",
       "priceText": "$38-$48",
       "reviewUrl": "/reviews/toleriane-purifying-foaming-facial-cleanser"
     }
@@ -159,21 +151,22 @@
   "relatedReviews": [
     {
       "title": "Hydro Boost Gel Cream Review",
-      "summary": "Hydro Boost Gel Cream is another useful review to open if you want a cleaner comparison on formula fit, daily use, and value before checkout.",
+      "summary": "Hydro Boost Gel Cream is another practical option if you want to compare buyer fit, daily use, and price before checkout.",
       "url": "/reviews/neutrogena-hydro-boost"
     },
     {
       "title": "Vanicream Gentle Facial Cleanser with Pump Dispenser Review",
-      "summary": "Vanicream Gentle Facial Cleanser with Pump Dispenser is another useful review to open if you want a cleaner comparison on formula fit, daily use, and value before checkout.",
+      "summary": "Vanicream Gentle Facial Cleanser with Pump Dispenser is another practical option if you want to compare buyer fit, daily use, and price before checkout.",
       "url": "/reviews/vanicream-gentle-facial-cleanser-with-pump-dispenser"
     },
     {
       "title": "Toleriane Purifying Foaming Facial Cleanser Review",
-      "summary": "Toleriane Purifying Foaming Facial Cleanser is another useful review to open if you want a cleaner comparison on formula fit, daily use, and value before checkout.",
+      "summary": "Toleriane Purifying Foaming Facial Cleanser is another practical option if you want to compare buyer fit, daily use, and price before checkout.",
       "url": "/reviews/toleriane-purifying-foaming-facial-cleanser"
     }
   ],
   "disclosureText": "Affiliate links on this page may earn a commission if a reader clicks through and completes a purchase.",
   "reviewMethodology": "This review is written for skincare buyers who need a cleaner decision path. The evaluation looks at formula fit, texture, routine friction, price context, shopper proof, and whether the product seems easy to keep using after the initial purchase excitement wears off.",
-  "tone": "from-[#efe6e2] to-[#c39b8f]"
+  "tone": "from-[#efe6e2] to-[#c39b8f]",
+  "relatedComparisons": []
 }

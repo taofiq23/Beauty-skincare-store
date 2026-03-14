@@ -36,20 +36,12 @@
   ],
   "featureSnapshot": [
     {
-      "label": "Product type",
-      "value": "Moisturizer"
+      "label": "Category",
+      "value": "Moisturizers"
     },
     {
-      "label": "Main skin goal",
-      "value": "Hydration and barrier support"
-    },
-    {
-      "label": "Texture / format",
-      "value": "Cream texture"
-    },
-    {
-      "label": "Routine slot",
-      "value": "Daily seal-and-support step"
+      "label": "Hydration style",
+      "value": "Daily hydration support"
     },
     {
       "label": "Price range",
@@ -103,28 +95,47 @@
   ],
   "alternatives": [
     {
-      "label": "Top alternative",
-      "title": "eos Shea Better Body Lotion Vanilla Cashmere",
-      "summary": "eos Shea Better Body Lotion Vanilla Cashmere is worth opening next if you want to compare a different moisturizer angle before making the final Amazon click.",
-      "priceText": "$9-$12",
-      "reviewUrl": "/reviews/eos-shea-better-body-lotion-vanilla"
-    },
-    {
       "label": "Value alternative",
       "title": "Vanicream Vitamin C Serum",
-      "summary": "Vanicream Vitamin C Serum is worth opening next if you want to compare a different moisturizer angle before making the final Amazon click.",
+      "summary": "Vanicream Vitamin C Serum is worth opening next if you want a different take on this moisturizer category before checkout.",
       "priceText": "Check Amazon",
       "reviewUrl": "/reviews/vanicream-vanicream-vitamin-c-serum"
     },
     {
       "label": "Another option",
       "title": "Vanicream Facial Moisturizer With Hyaluronic Acid For Sensitive Skin",
-      "summary": "Vanicream Facial Moisturizer With Hyaluronic Acid For Sensitive Skin is worth opening next if you want to compare a different moisturizer angle before making the final Amazon click.",
+      "summary": "Vanicream Facial Moisturizer With Hyaluronic Acid For Sensitive Skin is worth opening next if you want a different take on this moisturizer category before checkout.",
       "priceText": "$22-$28",
       "reviewUrl": "/reviews/vanicream-facial-moisturizer-with-hyaluronic-acid-for-sensitive-skin"
     }
   ],
-  "comparisons": [],
+  "comparisons": [
+    {
+      "title": "Vanicream Gentle Facial Cleanser Vs Aveeno Calm And Restore Oat Cleanser",
+      "summary": "A gentle-cleanser comparison for readers choosing between two lower-friction face-wash options for sensitive or easily stressed routines.",
+      "url": "/compare/vanicream-gentle-facial-cleanser-with-pump-dispenser-vs-aveeno-calm-and-restore-nourishing-oat-cleanser"
+    },
+    {
+      "title": "CeraVe Salicylic Acid Cleanser Vs Effaclar Medicated Gel Cleanser",
+      "summary": "A blemish-support cleanser comparison for readers choosing between two treatment-leaning face washes with different routine personalities.",
+      "url": "/compare/cerave-salicylic-acid-cleanser-vs-effaclar-medicated-gel-cleanser"
+    },
+    {
+      "title": "Byoma Moisturizing Gel Cream Vs Neutrogena Hydro Boost Gel Cream",
+      "summary": "A gel-moisturizer comparison for readers choosing between two lighter hydration options for oily, acne-prone, or warm-weather routines.",
+      "url": "/compare/byoma-moisturizing-gel-cream-vs-neutrogena-hydro-boost"
+    },
+    {
+      "title": "CeraVe Moisturizing Cream Vs Vanicream Moisturizing Skin Cream",
+      "summary": "A richer-cream comparison for readers deciding which barrier-support moisturizer belongs in a drier or more comfort-focused routine.",
+      "url": "/compare/cerave-moisturizing-cream-for-normal-to-dry-skin-vs-vanicream-moisturizing-skin-cream-with-pump-dispenser"
+    },
+    {
+      "title": "The Ordinary Retinol 1% In Squalane Vs CeraVe Resurfacing Retinol Serum",
+      "summary": "A retinol comparison for readers choosing between a more direct retinol-serum route and a routine-friendlier post-acne-mark retinol option.",
+      "url": "/compare/the-ordinary-retinol-1-in-squalane-vs-cerave-cerave-resurfacing-retinol-serum-for-post-acne-marks"
+    }
+  ],
   "faq": [
     {
       "question": "Is CeraVe Moisturizing Cream for Normal to Dry Skin worth it at the current price?",
@@ -154,26 +165,43 @@
       "title": "How To Choose A Moisturizer",
       "summary": "Use this guide to compare gels, creams, lotions, and simpler hydration-first picks.",
       "url": "/guides/how-to-choose-a-moisturizer"
+    },
+    {
+      "title": "How To Choose A Retinol Serum Or Cream",
+      "summary": "A long-form retinol guide for readers comparing retinol serums, creams, beginner options, and stronger nighttime formulas without creating an avoidable routine mess.",
+      "url": "/guides/how-to-choose-a-retinol-serum-or-cream"
+    },
+    {
+      "title": "How To Choose Fragrance-Free Skincare Without Making The Routine Boring Or Complicated",
+      "summary": "A long-form guide for readers choosing fragrance-free cleansers, moisturizers, and treatment products that lower routine friction without making the lineup harder to use.",
+      "url": "/guides/how-to-choose-fragrance-free-skincare"
+    },
+    {
+      "title": "How To Choose A Moisturizer For Acne-Prone Skin",
+      "summary": "A moisturizer guide for acne-prone routines comparing lightweight daily hydration, barrier support, and formulas that do not feel heavier than the routine needs.",
+      "url": "/guides/how-to-choose-a-moisturizer-for-acne-prone-skin"
     }
   ],
   "relatedReviews": [
     {
-      "title": "eos Shea Better Body Lotion Vanilla Cashmere Review",
-      "summary": "eos Shea Better Body Lotion Vanilla Cashmere is another useful review to open if you want a cleaner comparison on formula fit, daily use, and value before checkout.",
-      "url": "/reviews/eos-shea-better-body-lotion-vanilla"
-    },
-    {
       "title": "Vanicream Vitamin C Serum Review",
-      "summary": "Vanicream Vitamin C Serum is another useful review to open if you want a cleaner comparison on formula fit, daily use, and value before checkout.",
+      "summary": "Vanicream Vitamin C Serum is another practical option if you want to compare buyer fit, daily use, and price before checkout.",
       "url": "/reviews/vanicream-vanicream-vitamin-c-serum"
     },
     {
       "title": "Vanicream Facial Moisturizer With Hyaluronic Acid For Sensitive Skin Review",
-      "summary": "Vanicream Facial Moisturizer With Hyaluronic Acid For Sensitive Skin is another useful review to open if you want a cleaner comparison on formula fit, daily use, and value before checkout.",
+      "summary": "Vanicream Facial Moisturizer With Hyaluronic Acid For Sensitive Skin is another practical option if you want to compare buyer fit, daily use, and price before checkout.",
       "url": "/reviews/vanicream-facial-moisturizer-with-hyaluronic-acid-for-sensitive-skin"
     }
   ],
   "disclosureText": "Affiliate links on this page may earn a commission if a reader clicks through and completes a purchase.",
   "reviewMethodology": "This review is written for skincare buyers who need a cleaner decision path. The evaluation looks at formula fit, texture, routine friction, price context, shopper proof, and whether the product seems easy to keep using after the initial purchase excitement wears off.",
-  "tone": "from-[#e2e7ef] to-[#8aa4c3]"
+  "tone": "from-[#e2e7ef] to-[#8aa4c3]",
+  "relatedComparisons": [
+    "vanicream-gentle-facial-cleanser-with-pump-dispenser-vs-aveeno-calm-and-restore-nourishing-oat-cleanser",
+    "cerave-salicylic-acid-cleanser-vs-effaclar-medicated-gel-cleanser",
+    "byoma-moisturizing-gel-cream-vs-neutrogena-hydro-boost",
+    "cerave-moisturizing-cream-for-normal-to-dry-skin-vs-vanicream-moisturizing-skin-cream-with-pump-dispenser",
+    "the-ordinary-retinol-1-in-squalane-vs-cerave-cerave-resurfacing-retinol-serum-for-post-acne-marks"
+  ]
 }

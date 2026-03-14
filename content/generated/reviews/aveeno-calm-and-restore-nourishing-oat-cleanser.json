@@ -36,20 +36,12 @@
   ],
   "featureSnapshot": [
     {
-      "label": "Product type",
-      "value": "Cleanser"
+      "label": "Category",
+      "value": "Cleansers"
     },
     {
-      "label": "Main skin goal",
-      "value": "Daily cleansing"
-    },
-    {
-      "label": "Texture / format",
-      "value": "Wash-off formula"
-    },
-    {
-      "label": "Routine slot",
-      "value": "First routine step"
+      "label": "Routine role",
+      "value": "Daily face cleansing"
     },
     {
       "label": "Price range",
@@ -103,28 +95,54 @@
   ],
   "alternatives": [
     {
-      "label": "Top alternative",
+      "label": "Alternative to compare",
       "title": "Hydro Boost Gel Cream",
-      "summary": "Hydro Boost Gel Cream is worth opening next if you want to compare a different cleanser angle before making the final Amazon click.",
+      "summary": "Hydro Boost Gel Cream is worth opening next if you want a different take on this cleanser category before checkout.",
       "priceText": "$20-$25",
       "reviewUrl": "/reviews/neutrogena-hydro-boost"
     },
     {
       "label": "Value alternative",
       "title": "Vanicream Gentle Facial Cleanser with Pump Dispenser",
-      "summary": "Vanicream Gentle Facial Cleanser with Pump Dispenser is worth opening next if you want to compare a different cleanser angle before making the final Amazon click.",
+      "summary": "Vanicream Gentle Facial Cleanser with Pump Dispenser is worth opening next if you want a different take on this cleanser category before checkout.",
       "priceText": "$21-$27",
       "reviewUrl": "/reviews/vanicream-gentle-facial-cleanser-with-pump-dispenser"
     },
     {
       "label": "Another option",
       "title": "Toleriane Purifying Foaming Facial Cleanser",
-      "summary": "Toleriane Purifying Foaming Facial Cleanser is worth opening next if you want to compare a different cleanser angle before making the final Amazon click.",
+      "summary": "Toleriane Purifying Foaming Facial Cleanser is worth opening next if you want a different take on this cleanser category before checkout.",
       "priceText": "$38-$48",
       "reviewUrl": "/reviews/toleriane-purifying-foaming-facial-cleanser"
     }
   ],
-  "comparisons": [],
+  "comparisons": [
+    {
+      "title": "Vanicream Gentle Facial Cleanser Vs Aveeno Calm And Restore Oat Cleanser",
+      "summary": "A gentle-cleanser comparison for readers choosing between two lower-friction face-wash options for sensitive or easily stressed routines.",
+      "url": "/compare/vanicream-gentle-facial-cleanser-with-pump-dispenser-vs-aveeno-calm-and-restore-nourishing-oat-cleanser"
+    },
+    {
+      "title": "CeraVe Salicylic Acid Cleanser Vs Effaclar Medicated Gel Cleanser",
+      "summary": "A blemish-support cleanser comparison for readers choosing between two treatment-leaning face washes with different routine personalities.",
+      "url": "/compare/cerave-salicylic-acid-cleanser-vs-effaclar-medicated-gel-cleanser"
+    },
+    {
+      "title": "Byoma Moisturizing Gel Cream Vs Neutrogena Hydro Boost Gel Cream",
+      "summary": "A gel-moisturizer comparison for readers choosing between two lighter hydration options for oily, acne-prone, or warm-weather routines.",
+      "url": "/compare/byoma-moisturizing-gel-cream-vs-neutrogena-hydro-boost"
+    },
+    {
+      "title": "CeraVe Moisturizing Cream Vs Vanicream Moisturizing Skin Cream",
+      "summary": "A richer-cream comparison for readers deciding which barrier-support moisturizer belongs in a drier or more comfort-focused routine.",
+      "url": "/compare/cerave-moisturizing-cream-for-normal-to-dry-skin-vs-vanicream-moisturizing-skin-cream-with-pump-dispenser"
+    },
+    {
+      "title": "The Ordinary Retinol 1% In Squalane Vs CeraVe Resurfacing Retinol Serum",
+      "summary": "A retinol comparison for readers choosing between a more direct retinol-serum route and a routine-friendlier post-acne-mark retinol option.",
+      "url": "/compare/the-ordinary-retinol-1-in-squalane-vs-cerave-cerave-resurfacing-retinol-serum-for-post-acne-marks"
+    }
+  ],
   "faq": [
     {
       "question": "Is Aveeno Calm and Restore Nourishing Oat Cleanser worth it at the current price?",
@@ -154,26 +172,48 @@
       "title": "How To Choose A Cleanser",
       "summary": "Use this guide to compare daily face washes, acne cleansers, and gentler routine-first options.",
       "url": "/guides/how-to-choose-a-cleanser"
+    },
+    {
+      "title": "How To Choose A Retinol Serum Or Cream",
+      "summary": "A long-form retinol guide for readers comparing retinol serums, creams, beginner options, and stronger nighttime formulas without creating an avoidable routine mess.",
+      "url": "/guides/how-to-choose-a-retinol-serum-or-cream"
+    },
+    {
+      "title": "How To Choose Fragrance-Free Skincare Without Making The Routine Boring Or Complicated",
+      "summary": "A long-form guide for readers choosing fragrance-free cleansers, moisturizers, and treatment products that lower routine friction without making the lineup harder to use.",
+      "url": "/guides/how-to-choose-fragrance-free-skincare"
+    },
+    {
+      "title": "How To Choose A Moisturizer For Acne-Prone Skin",
+      "summary": "A moisturizer guide for acne-prone routines comparing lightweight daily hydration, barrier support, and formulas that do not feel heavier than the routine needs.",
+      "url": "/guides/how-to-choose-a-moisturizer-for-acne-prone-skin"
     }
   ],
   "relatedReviews": [
     {
       "title": "Hydro Boost Gel Cream Review",
-      "summary": "Hydro Boost Gel Cream is another useful review to open if you want a cleaner comparison on formula fit, daily use, and value before checkout.",
+      "summary": "Hydro Boost Gel Cream is another practical option if you want to compare buyer fit, daily use, and price before checkout.",
       "url": "/reviews/neutrogena-hydro-boost"
     },
     {
       "title": "Vanicream Gentle Facial Cleanser with Pump Dispenser Review",
-      "summary": "Vanicream Gentle Facial Cleanser with Pump Dispenser is another useful review to open if you want a cleaner comparison on formula fit, daily use, and value before checkout.",
+      "summary": "Vanicream Gentle Facial Cleanser with Pump Dispenser is another practical option if you want to compare buyer fit, daily use, and price before checkout.",
       "url": "/reviews/vanicream-gentle-facial-cleanser-with-pump-dispenser"
     },
     {
       "title": "Toleriane Purifying Foaming Facial Cleanser Review",
-      "summary": "Toleriane Purifying Foaming Facial Cleanser is another useful review to open if you want a cleaner comparison on formula fit, daily use, and value before checkout.",
+      "summary": "Toleriane Purifying Foaming Facial Cleanser is another practical option if you want to compare buyer fit, daily use, and price before checkout.",
       "url": "/reviews/toleriane-purifying-foaming-facial-cleanser"
     }
   ],
   "disclosureText": "Affiliate links on this page may earn a commission if a reader clicks through and completes a purchase.",
   "reviewMethodology": "This review is written for skincare buyers who need a cleaner decision path. The evaluation looks at formula fit, texture, routine friction, price context, shopper proof, and whether the product seems easy to keep using after the initial purchase excitement wears off.",
-  "tone": "from-[#efe6e2] to-[#c39b8f]"
+  "tone": "from-[#efe6e2] to-[#c39b8f]",
+  "relatedComparisons": [
+    "vanicream-gentle-facial-cleanser-with-pump-dispenser-vs-aveeno-calm-and-restore-nourishing-oat-cleanser",
+    "cerave-salicylic-acid-cleanser-vs-effaclar-medicated-gel-cleanser",
+    "byoma-moisturizing-gel-cream-vs-neutrogena-hydro-boost",
+    "cerave-moisturizing-cream-for-normal-to-dry-skin-vs-vanicream-moisturizing-skin-cream-with-pump-dispenser",
+    "the-ordinary-retinol-1-in-squalane-vs-cerave-cerave-resurfacing-retinol-serum-for-post-acne-marks"
+  ]
 }

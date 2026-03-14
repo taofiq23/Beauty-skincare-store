@@ -2,29 +2,30 @@ import type { Metadata } from "next";
 import { SiteBreadcrumbs } from "@/components/site-breadcrumbs";
 import { InternalLinkGrid } from "@/components/internal-link-grid";
 import { buildMetadata } from "@/lib/seo";
+import { getGuideImageUrl } from "@/lib/guide-images";
 import { bestLists, categories, guides } from "@/lib/content-store";
 
 const primaryGuideSlugs = [
   "how-to-build-a-simple-skincare-routine",
+  "how-to-build-a-sensitive-skin-routine",
+  "how-to-build-an-acne-prone-skincare-routine",
   "how-to-choose-a-cleanser",
   "how-to-choose-a-cleanser-for-sensitive-skin",
-  "how-to-choose-a-cleanser-for-oily-skin",
   "how-to-choose-a-moisturizer",
-  "how-to-choose-a-moisturizer-for-sensitive-skin",
+  "how-to-choose-a-sunscreen-for-sensitive-skin",
   "how-to-choose-a-vitamin-c-serum",
   "how-to-choose-a-retinol-serum-or-cream",
-  "how-to-choose-a-sunscreen",
-  "how-to-choose-a-sunscreen-for-sensitive-skin"
+  "how-to-choose-an-acne-spot-treatment"
 ];
 
 const featuredBestSlugs = [
   "top-picks",
   "best-face-cleansers",
-  "best-face-cleansers-for-oily-skin",
-  "best-face-moisturizers-for-oily-skin",
-  "best-vitamin-c-serums-for-brightening",
-  "best-retinol-serums-and-creams",
+  "best-fragrance-free-cleansers",
+  "best-acne-safe-moisturizers",
   "best-face-sunscreens-for-sensitive-skin",
+  "best-face-sunscreens-for-acne-prone-skin",
+  "best-retinol-serums-and-creams",
   "best-acne-spot-treatments"
 ];
 
@@ -55,7 +56,7 @@ export default function GuidesIndexPage() {
           <h1 className="mt-5 font-display text-[2.5rem] leading-[0.94] sm:text-5xl md:mt-6 md:text-7xl">
             Start With The Right Category Guide
           </h1>
-          <p className="mx-auto mt-6 max-w-3xl text-[15px] leading-7 text-black/74 md:mt-8 md:text-base md:leading-8">
+          <p className="mx-auto mt-6 max-w-3xl text-[15px] leading-7 text-black md:mt-8 md:text-base md:leading-8">
             Use these long-form guides to narrow the category first, then move into the best lists, comparison pages, and review pages. The goal is a cleaner decision path, not a bigger list of random products.
           </p>
         </div>
@@ -68,7 +69,8 @@ export default function GuidesIndexPage() {
           title: guide.title,
           description: guide.description,
           href: `/guides/${guide.slug}`,
-          label: "Guide"
+          label: "Guide",
+          imageUrl: getGuideImageUrl(guide.slug)
         }))}
       />
 
@@ -79,7 +81,8 @@ export default function GuidesIndexPage() {
           title: guide.title,
           description: guide.description,
           href: `/guides/${guide.slug}`,
-          label: "Guide"
+          label: "Guide",
+          imageUrl: getGuideImageUrl(guide.slug)
         }))}
       />
 

@@ -9,9 +9,7 @@
       "toleriane-purifying-foaming-facial-cleanser",
       "cerave-hydrating-facial-cleanser-for-daily-face-washing",
       "cerave-salicylic-acid-cleanser",
-      "cerave-hydrating-facial-cleanser",
       "panoxyl-acne-foaming-wash-benzoyl-peroxide-10-maximum-strength-antim",
-      "face-wash",
       "cerave-foaming-facial-cleanser",
       "effaclar-medicated-gel-cleanser",
       "ultra-gentle-foaming-facial-cleanser",
@@ -48,7 +46,8 @@
       "best-face-cleansers",
       "best-face-cleansers-for-sensitive-skin",
       "best-face-cleansers-for-acne-prone-skin",
-      "best-face-cleansers-for-oily-skin"
+      "best-face-cleansers-for-oily-skin",
+      "best-fragrance-free-cleansers"
     ],
     "guideSlugs": [
       "how-to-choose-a-cleanser",
@@ -56,14 +55,19 @@
       "how-to-choose-a-cleanser-for-acne-prone-skin",
       "product-buying-guide",
       "how-to-build-a-simple-skincare-routine",
-      "how-to-choose-a-cleanser-for-oily-skin"
+      "how-to-choose-a-cleanser-for-oily-skin",
+      "how-to-build-a-sensitive-skin-routine",
+      "how-to-build-an-acne-prone-skincare-routine",
+      "how-to-choose-fragrance-free-skincare"
     ],
     "comparisonSlugs": [
       "cerave-hydrating-facial-cleanser-for-daily-face-washing-vs-panoxyl-10-benzoyl-peroxide-acne-foaming-wash",
       "toleriane-purifying-foaming-facial-cleanser-vs-cetaphil-face-wash",
       "cerave-hydrating-facial-cleanser-vs-cetaphil-face-wash",
       "panoxyl-vs-cerave-salicylic-acid-cleanser",
-      "cerave-foaming-facial-cleanser-vs-cetaphil-face-wash-sensitive-combination-to-oily-skin"
+      "cerave-foaming-facial-cleanser-vs-cetaphil-face-wash-sensitive-combination-to-oily-skin",
+      "vanicream-gentle-facial-cleanser-with-pump-dispenser-vs-aveeno-calm-and-restore-nourishing-oat-cleanser",
+      "cerave-salicylic-acid-cleanser-vs-effaclar-medicated-gel-cleanser"
     ],
     "faq": [
       {
@@ -89,8 +93,6 @@
     "intro": "This category is built for readers choosing between lightweight gels, richer barrier creams, and body-first hydration products. Use it to move from broad moisturizer research into the pages with the clearest buying intent.",
     "productSlugs": [
       "neutrogena-hydro-boost",
-      "eos-shea-better-body-lotion-vanilla",
-      "vitamin-c-serum",
       "vanicream-vanicream-vitamin-c-serum",
       "vanicream-facial-moisturizer-with-hyaluronic-acid-for-sensitive-skin",
       "good-molecules-gentle-retinol-cream",
@@ -99,7 +101,6 @@
       "byoma-moisturizing-gel-cream",
       "neutrogena-visible-repair-retinol-regenerating-cream",
       "345-relief-cream",
-      "retinol-body-lotion-and-face-moisturizer",
       "medicube-triple-collagen-cream",
       "cerave-moisturizing-cream-for-normal-to-dry-skin",
       "vanicream-moisturizing-skin-cream-with-pump-dispenser",
@@ -115,7 +116,6 @@
       "lait-cr-me-concentr-face-moisturizer-and-makeup-primer",
       "revitalift-triple-power-anti-aging-face-moisturizer",
       "capsule-cream-with-deep-vitamin-c",
-      "retinol-body-lotion-firming-moisturizer",
       "skin-renewing-night-cream",
       "snail-mucin-92-face-moisturizer",
       "rapid-wrinkle-repair-retinol-eye-cream-for-dark-circles",
@@ -127,18 +127,25 @@
       "neutrogena-ultra-sheer-dry-touch-sunscreen-lotion-spf-70",
       "neutrogena-rapid-clear-stubborn-acne-spot-treatment-gel-with-maximum-strength-10-ben",
       "persa-gel-10-oil-free-acne-spot-treatment-with-maximum-strength-10-benzoyl-peroxide",
-      "daily-spf-50-sunscreen-body-lotion",
       "hawaiian-tropic-sheer-touch-ultra-radiance-lotion-sunscreen-spf-30",
       "wrinkle-bounce-multi-balm-stick",
       "cerave-eye-repair-cream-for-dark-circles-under-eyes-and-puffiness",
       "roc-retinol-correxion-line-smoothing-anti-aging-retinol-eye-cream-for-dark-circles-an",
-      "skin-renewing-vitamin-c-eye-cream"
+      "skin-renewing-vitamin-c-eye-cream",
+      "yerba-mate-wake-up-eye-gel",
+      "caffeine-eye-cream",
+      "skin-holy-hydration-eye-cream",
+      "vegan-collagen-eye-serum",
+      "all-about-eyes-lightweight-eye-cream-with-vitamin-c"
     ],
     "bestSlugs": [
       "top-picks",
       "best-daily-skincare-basics",
       "best-face-moisturizers-for-oily-skin",
-      "best-night-creams-and-retinol-moisturizers"
+      "best-night-creams-and-retinol-moisturizers",
+      "best-acne-safe-moisturizers",
+      "best-fragrance-free-moisturizers",
+      "best-barrier-repair-moisturizers"
     ],
     "guideSlugs": [
       "how-to-choose-a-moisturizer",
@@ -146,13 +153,18 @@
       "product-buying-guide",
       "how-to-build-a-simple-skincare-routine",
       "how-to-choose-a-moisturizer-for-sensitive-skin",
-      "how-to-choose-a-moisturizer-for-dry-skin"
+      "how-to-choose-a-moisturizer-for-dry-skin",
+      "how-to-choose-a-moisturizer-for-acne-prone-skin",
+      "how-to-build-a-sensitive-skin-routine",
+      "how-to-choose-fragrance-free-skincare"
     ],
     "comparisonSlugs": [
       "vanicream-facial-moisturizer-vs-toleriane-double-repair-face-moisturiser",
       "good-molecules-gentle-retinol-cream-vs-neutrogena-visible-repair-retinol-regenerating-cream",
       "vanicream-facial-moisturizer-with-hyaluronic-acid-for-sensitive-skin-vs-toleriane-double-repair-face-moisturiser",
-      "good-molecules-lightweight-daily-moisturizer-vs-byoma-moisturizing-gel-cream"
+      "good-molecules-lightweight-daily-moisturizer-vs-byoma-moisturizing-gel-cream",
+      "cerave-moisturizing-cream-for-normal-to-dry-skin-vs-vanicream-moisturizing-skin-cream-with-pump-dispenser",
+      "byoma-moisturizing-gel-cream-vs-neutrogena-hydro-boost"
     ],
     "faq": [
       {
@@ -200,14 +212,11 @@
       "cerave-cerave-resurfacing-retinol-serum-for-post-acne-marks",
       "the-vita-a-retinal-shot-tightening-booster",
       "retinol-boosting-serum",
-      "la-roche-posay-lipikar-baume-ap",
-      "la-roche-posay-lipikar-balm-ap",
       "biodance-bio-collagen-real-deep-mask",
       "retinol-correxion-deep-wrinkle-retinol-face-serum-with-ascorbic-acid",
       "toning-polish-pads",
       "choice-skin-perfecting-2-bha-liquid-exfoliant-with-salicylic-acid",
       "retinol-under-eye-patches-for-puffy-eyes-and-dark-circles",
-      "laneige-lip-sleeping-mask",
       "skin-holy-hydration-thirst-burst-drops",
       "hydrating-milky-toner",
       "deep-collagen-overnight-mask-hydrating-mask-for-glass-skin",
@@ -233,7 +242,10 @@
       "biodance-hydro-cera-nol-real-deep-mask",
       "v-line-lifting-mask-with-24k-gold-deep-collagen-face-mask-for-women-jawline-shape",
       "revive-eye-serum-ginseng-retinal",
-      "n95-respirator-8511"
+      "zero-pore-blackhead-mud-facial-mask",
+      "wrapping-mask-pdrn-caffeine-overnight-peel-off-facial-mask",
+      "snail-mucin-repairing-serum",
+      "eye-serum-with-kojic-acid-turmeric"
     ],
     "bestSlugs": [
       "top-picks",
@@ -244,7 +256,9 @@
       "best-face-sunscreens-for-sensitive-skin",
       "best-mineral-face-sunscreens",
       "best-acne-spot-treatments",
-      "best-acne-patches-for-overnight-use"
+      "best-acne-patches-for-overnight-use",
+      "best-face-sunscreens-for-acne-prone-skin",
+      "best-brightening-serums-for-post-acne-marks"
     ],
     "guideSlugs": [
       "how-to-build-a-simple-skincare-routine",
@@ -258,7 +272,9 @@
       "how-to-choose-an-acne-spot-treatment",
       "how-to-choose-an-acne-patch",
       "how-to-choose-a-sunscreen-for-sensitive-skin",
-      "how-to-layer-vitamin-c-moisturizer-and-sunscreen"
+      "how-to-build-an-acne-prone-skincare-routine",
+      "how-to-choose-a-sunscreen-for-acne-prone-skin",
+      "how-to-layer-vitamin-c-retinol-and-sunscreen"
     ],
     "comparisonSlugs": [
       "pure-vitamin-c-serum-vs-ordinary-ascorbyl-glucoside-solution-12",
@@ -269,7 +285,13 @@
       "cerave-foaming-facial-cleanser-vs-cetaphil-face-wash-sensitive-combination-to-oily-skin",
       "vanicream-facial-moisturizer-with-hyaluronic-acid-for-sensitive-skin-vs-toleriane-double-repair-face-moisturiser",
       "good-molecules-lightweight-daily-moisturizer-vs-byoma-moisturizing-gel-cream",
-      "vanicream-vitamin-c-serum-vs-roche-posay-pure-12-vitamin-c-serum"
+      "vanicream-vitamin-c-serum-vs-roche-posay-pure-12-vitamin-c-serum",
+      "eltamd-uv-clear-face-sunscreen-spf-46-vs-haruharu-wonder-black-rice-moisture-airyfit-daily-sunscreen-spf50-pa-non-greasy",
+      "cerave-mineral-sunscreen-stick-for-kids-and-adults-vs-hydrating-mineral-sunscreen-spf-30-with-sheer-tint",
+      "acne-treatment-gel-vs-persa-gel-10-oil-free-acne-spot-treatment-with-maximum-strength-10-benzoyl-peroxide",
+      "neutrogena-rapid-clear-stubborn-acne-spot-treatment-gel-with-maximum-strength-10-ben-vs-acnefree-terminator-10-acne-spot-treatment-with-benzoyl-peroxide-10-maximum-strength",
+      "the-ordinary-retinol-1-in-squalane-vs-cerave-cerave-resurfacing-retinol-serum-for-post-acne-marks",
+      "mighty-patch-original-patch-from-hero-vs-acne-treatment-gel"
     ],
     "faq": [
       {

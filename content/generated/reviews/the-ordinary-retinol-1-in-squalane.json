@@ -36,20 +36,12 @@
   ],
   "featureSnapshot": [
     {
-      "label": "Product type",
-      "value": "Retinol treatment"
+      "label": "Category",
+      "value": "Treatments"
     },
     {
-      "label": "Main skin goal",
-      "value": "Texture and fine-line support"
-    },
-    {
-      "label": "Texture / format",
-      "value": "Routine-friendly format"
-    },
-    {
-      "label": "Routine slot",
-      "value": "Night treatment step"
+      "label": "Routine role",
+      "value": "Targeted routine support"
     },
     {
       "label": "Price range",
@@ -103,28 +95,54 @@
   ],
   "alternatives": [
     {
-      "label": "Top alternative",
+      "label": "Alternative to compare",
       "title": "Hero Mighty Patch Original",
-      "summary": "Hero Mighty Patch Original is worth opening next if you want to compare a different retinol treatment angle before making the final Amazon click.",
+      "summary": "Hero Mighty Patch Original is worth opening next if you want a different take on this treatment category before checkout.",
       "priceText": "$11-$15",
       "reviewUrl": "/reviews/mighty-patch-original-patch-from-hero"
     },
     {
       "label": "Value alternative",
       "title": "TOLERIANE soin lavat anti-inconforts anti-sécheresses",
-      "summary": "TOLERIANE soin lavat anti-inconforts anti-sécheresses is worth opening next if you want to compare a different retinol treatment angle before making the final Amazon click.",
+      "summary": "TOLERIANE soin lavat anti-inconforts anti-sécheresses is worth opening next if you want a different take on this treatment category before checkout.",
       "priceText": "$42-$52",
       "reviewUrl": "/reviews/toleriane-soin-lavat-anti-inconforts-anti-s-cheresses"
     },
     {
       "label": "Another option",
       "title": "Garnier SkinActive Micellar Cleansing Water",
-      "summary": "Garnier SkinActive Micellar Cleansing Water is worth opening next if you want to compare a different retinol treatment angle before making the final Amazon click.",
+      "summary": "Garnier SkinActive Micellar Cleansing Water is worth opening next if you want a different take on this treatment category before checkout.",
       "priceText": "$20-$26",
       "reviewUrl": "/reviews/garnier-skinactive-micellar-cleansing-water"
     }
   ],
-  "comparisons": [],
+  "comparisons": [
+    {
+      "title": "Vanicream Gentle Facial Cleanser Vs Aveeno Calm And Restore Oat Cleanser",
+      "summary": "A gentle-cleanser comparison for readers choosing between two lower-friction face-wash options for sensitive or easily stressed routines.",
+      "url": "/compare/vanicream-gentle-facial-cleanser-with-pump-dispenser-vs-aveeno-calm-and-restore-nourishing-oat-cleanser"
+    },
+    {
+      "title": "CeraVe Salicylic Acid Cleanser Vs Effaclar Medicated Gel Cleanser",
+      "summary": "A blemish-support cleanser comparison for readers choosing between two treatment-leaning face washes with different routine personalities.",
+      "url": "/compare/cerave-salicylic-acid-cleanser-vs-effaclar-medicated-gel-cleanser"
+    },
+    {
+      "title": "Byoma Moisturizing Gel Cream Vs Neutrogena Hydro Boost Gel Cream",
+      "summary": "A gel-moisturizer comparison for readers choosing between two lighter hydration options for oily, acne-prone, or warm-weather routines.",
+      "url": "/compare/byoma-moisturizing-gel-cream-vs-neutrogena-hydro-boost"
+    },
+    {
+      "title": "CeraVe Moisturizing Cream Vs Vanicream Moisturizing Skin Cream",
+      "summary": "A richer-cream comparison for readers deciding which barrier-support moisturizer belongs in a drier or more comfort-focused routine.",
+      "url": "/compare/cerave-moisturizing-cream-for-normal-to-dry-skin-vs-vanicream-moisturizing-skin-cream-with-pump-dispenser"
+    },
+    {
+      "title": "The Ordinary Retinol 1% In Squalane Vs CeraVe Resurfacing Retinol Serum",
+      "summary": "A retinol comparison for readers choosing between a more direct retinol-serum route and a routine-friendlier post-acne-mark retinol option.",
+      "url": "/compare/the-ordinary-retinol-1-in-squalane-vs-cerave-cerave-resurfacing-retinol-serum-for-post-acne-marks"
+    }
+  ],
   "faq": [
     {
       "question": "Is The Ordinary Retinol 1% in Squalane worth it at the current price?",
@@ -154,26 +172,48 @@
       "title": "How To Choose Acne Treatment Products",
       "summary": "Use this guide to compare patches, pads, and other targeted acne-care formats.",
       "url": "/guides/how-to-choose-acne-treatment"
+    },
+    {
+      "title": "How To Choose A Retinol Serum Or Cream",
+      "summary": "Use this guide to decide whether a retinol serum or a cream is the better buy for your routine.",
+      "url": "/guides/how-to-choose-a-retinol-serum-or-cream"
+    },
+    {
+      "title": "How To Choose Fragrance-Free Skincare Without Making The Routine Boring Or Complicated",
+      "summary": "A long-form guide for readers choosing fragrance-free cleansers, moisturizers, and treatment products that lower routine friction without making the lineup harder to use.",
+      "url": "/guides/how-to-choose-fragrance-free-skincare"
+    },
+    {
+      "title": "How To Choose A Moisturizer For Acne-Prone Skin",
+      "summary": "A moisturizer guide for acne-prone routines comparing lightweight daily hydration, barrier support, and formulas that do not feel heavier than the routine needs.",
+      "url": "/guides/how-to-choose-a-moisturizer-for-acne-prone-skin"
     }
   ],
   "relatedReviews": [
     {
       "title": "Hero Mighty Patch Original Review",
-      "summary": "Hero Mighty Patch Original is another useful review to open if you want a cleaner comparison on formula fit, daily use, and value before checkout.",
+      "summary": "Hero Mighty Patch Original is another practical option if you want to compare buyer fit, daily use, and price before checkout.",
       "url": "/reviews/mighty-patch-original-patch-from-hero"
     },
     {
       "title": "TOLERIANE soin lavat anti-inconforts anti-sécheresses Review",
-      "summary": "TOLERIANE soin lavat anti-inconforts anti-sécheresses is another useful review to open if you want a cleaner comparison on formula fit, daily use, and value before checkout.",
+      "summary": "TOLERIANE soin lavat anti-inconforts anti-sécheresses is another practical option if you want to compare buyer fit, daily use, and price before checkout.",
       "url": "/reviews/toleriane-soin-lavat-anti-inconforts-anti-s-cheresses"
     },
     {
       "title": "Garnier SkinActive Micellar Cleansing Water Review",
-      "summary": "Garnier SkinActive Micellar Cleansing Water is another useful review to open if you want a cleaner comparison on formula fit, daily use, and value before checkout.",
+      "summary": "Garnier SkinActive Micellar Cleansing Water is another practical option if you want to compare buyer fit, daily use, and price before checkout.",
       "url": "/reviews/garnier-skinactive-micellar-cleansing-water"
     }
   ],
   "disclosureText": "Affiliate links on this page may earn a commission if a reader clicks through and completes a purchase.",
   "reviewMethodology": "This review is written for skincare buyers who need a cleaner decision path. The evaluation looks at formula fit, texture, routine friction, price context, shopper proof, and whether the product seems easy to keep using after the initial purchase excitement wears off.",
-  "tone": "from-[#ede6db] to-[#c5a57b]"
+  "tone": "from-[#ede6db] to-[#c5a57b]",
+  "relatedComparisons": [
+    "vanicream-gentle-facial-cleanser-with-pump-dispenser-vs-aveeno-calm-and-restore-nourishing-oat-cleanser",
+    "cerave-salicylic-acid-cleanser-vs-effaclar-medicated-gel-cleanser",
+    "byoma-moisturizing-gel-cream-vs-neutrogena-hydro-boost",
+    "cerave-moisturizing-cream-for-normal-to-dry-skin-vs-vanicream-moisturizing-skin-cream-with-pump-dispenser",
+    "the-ordinary-retinol-1-in-squalane-vs-cerave-cerave-resurfacing-retinol-serum-for-post-acne-marks"
+  ]
 }

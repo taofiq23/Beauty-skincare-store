@@ -101,10 +101,10 @@ export type CategoryRecord = {
 };
 
 export const siteConfig = {
-  name: "BeautySelect Daily",
-  shortName: "BeautySelect",
-  description: "BeautySelect Daily publishes skincare reviews, beauty buying guides, ingredient comparisons, and product roundups for everyday routines.",
-  url: "https://affiliate-site-dusky.vercel.app"
+  name: "Skincare Picks Guide",
+  shortName: "Skincare Picks",
+  description: "Skincare Picks Guide publishes skincare reviews, beauty buying guides, ingredient comparisons, and product roundups for everyday routines.",
+  url: "https://skincarepicksguide.vercel.app"
 } as const;
 
 export const products: ProductRecord[] = [

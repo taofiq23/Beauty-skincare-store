@@ -3,7 +3,7 @@ import { buildMetadata } from "@/lib/seo";
 
 export const metadata: Metadata = buildMetadata({
   title: "Frequently Asked Questions",
-  description: "Questions about recommendations, pricing, retailer links, and how HomeSelect Daily reviews products.",
+  description: "Questions about recommendations, pricing, retailer links, and how Skincare Picks Guide reviews products.",
   pathname: "/faq"
 });
 
@@ -46,7 +46,7 @@ export default function FaqPage() {
             Do you sell products directly?
           </summary>
           <p className="mt-3 max-w-3xl text-sm leading-relaxed text-secondary/80">
-            No. HomeSelect Daily is a content and referral site. All transactions happen on the retailer's website.
+            No. Skincare Picks Guide is a content and referral site. All transactions happen on the retailer's website.
           </p>
         </details>
       </div>

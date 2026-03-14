@@ -5,16 +5,13 @@
   "featuredReviewSlugs": [
     "neutrogena-hydro-boost",
     "mighty-patch-original-patch-from-hero",
-    "eos-shea-better-body-lotion-vanilla",
     "vanicream-gentle-facial-cleanser-with-pump-dispenser",
     "toleriane-purifying-foaming-facial-cleanser",
     "cerave-hydrating-facial-cleanser-for-daily-face-washing",
     "cerave-salicylic-acid-cleanser",
-    "cerave-hydrating-facial-cleanser",
     "toleriane-soin-lavat-anti-inconforts-anti-s-cheresses",
     "panoxyl-acne-foaming-wash-benzoyl-peroxide-10-maximum-strength-antim",
     "garnier-skinactive-micellar-cleansing-water",
-    "face-wash",
     "cerave-foaming-facial-cleanser",
     "effaclar-medicated-gel-cleanser",
     "ultra-gentle-foaming-facial-cleanser",
@@ -27,7 +24,6 @@
     "hydrating-foaming-oil-cleanser",
     "vitamin-c-complex-face-serum",
     "2-pack-oil-free-facial-cleansers-with-citrus-scent",
-    "vitamin-c-serum",
     "green-plum-refreshing-cleanser-gel-type-deep-pore-cleansing",
     "roche-posay-pure-12-vitamin-c-serum-for-face-with-hyaluronic-acid-and",
     "vitamin-c-serum-for-face-anti-aging-face-serum-with-hyaluronic-acid",
@@ -61,11 +57,8 @@
     "the-vita-a-retinal-shot-tightening-booster",
     "retinol-boosting-serum",
     "byoma-moisturizing-gel-cream",
-    "la-roche-posay-lipikar-baume-ap",
-    "la-roche-posay-lipikar-balm-ap",
     "neutrogena-visible-repair-retinol-regenerating-cream",
     "345-relief-cream",
-    "retinol-body-lotion-and-face-moisturizer",
     "medicube-triple-collagen-cream",
     "cerave-moisturizing-cream-for-normal-to-dry-skin",
     "vanicream-moisturizing-skin-cream-with-pump-dispenser",
@@ -83,7 +76,6 @@
     "lait-cr-me-concentr-face-moisturizer-and-makeup-primer",
     "revitalift-triple-power-anti-aging-face-moisturizer",
     "capsule-cream-with-deep-vitamin-c",
-    "retinol-body-lotion-firming-moisturizer",
     "skin-renewing-night-cream",
     "snail-mucin-92-face-moisturizer",
     "retinol-correxion-deep-wrinkle-retinol-face-serum-with-ascorbic-acid",
@@ -95,7 +87,6 @@
     "choice-skin-perfecting-2-bha-liquid-exfoliant-with-salicylic-acid",
     "retinol-under-eye-patches-for-puffy-eyes-and-dark-circles",
     "cetaphil-face-wash-sensitive-combination-to-oily-skin",
-    "laneige-lip-sleeping-mask",
     "skin-holy-hydration-thirst-burst-drops",
     "hydrating-milky-toner",
     "capsule-cream-with-salmon-dna-pdrn-pink-collagen",
@@ -120,7 +111,6 @@
     "niacinamide-10-txa-4-serum",
     "haruharu-wonder-black-rice-moisture-airyfit-daily-sunscreen-spf50-pa-non-greasy",
     "persa-gel-10-oil-free-acne-spot-treatment-with-maximum-strength-10-benzoyl-peroxide",
-    "daily-spf-50-sunscreen-body-lotion",
     "thayers-blemish-clearing-salicylic-acid-and-witch-hazel-acne-pads",
     "acne-treatment-bar-with-10-benzoyl-peroxide",
     "hawaiian-tropic-sheer-touch-ultra-radiance-lotion-sunscreen-spf-30",
@@ -136,14 +126,26 @@
     "skin-renewing-vitamin-c-eye-cream",
     "v-line-lifting-mask-with-24k-gold-deep-collagen-face-mask-for-women-jawline-shape",
     "revive-eye-serum-ginseng-retinal",
-    "n95-respirator-8511"
+    "yerba-mate-wake-up-eye-gel",
+    "zero-pore-blackhead-mud-facial-mask",
+    "wrapping-mask-pdrn-caffeine-overnight-peel-off-facial-mask",
+    "caffeine-eye-cream",
+    "skin-holy-hydration-eye-cream",
+    "vegan-collagen-eye-serum",
+    "all-about-eyes-lightweight-eye-cream-with-vitamin-c",
+    "snail-mucin-repairing-serum",
+    "eye-serum-with-kojic-acid-turmeric"
   ],
   "featuredBestSlug": "top-picks",
   "popularComparisonSlugs": [
     "cerave-hydrating-facial-cleanser-vs-cetaphil-face-wash",
     "panoxyl-vs-cerave-salicylic-acid-cleanser",
     "cerave-hydrating-facial-cleanser-for-daily-face-washing-vs-panoxyl-10-benzoyl-peroxide-acne-foaming-wash",
-    "toleriane-purifying-foaming-facial-cleanser-vs-cetaphil-face-wash"
+    "toleriane-purifying-foaming-facial-cleanser-vs-cetaphil-face-wash",
+    "eltamd-uv-clear-face-sunscreen-spf-46-vs-haruharu-wonder-black-rice-moisture-airyfit-daily-sunscreen-spf50-pa-non-greasy",
+    "cerave-salicylic-acid-cleanser-vs-effaclar-medicated-gel-cleanser",
+    "vanicream-gentle-facial-cleanser-with-pump-dispenser-vs-aveeno-calm-and-restore-nourishing-oat-cleanser",
+    "the-ordinary-retinol-1-in-squalane-vs-cerave-cerave-resurfacing-retinol-serum-for-post-acne-marks"
   ],
   "featuredGuideSlugs": [
     "how-to-choose-a-sunscreen",
@@ -159,7 +161,13 @@
     "how-to-choose-a-cleanser-for-oily-skin",
     "how-to-choose-a-moisturizer-for-sensitive-skin",
     "how-to-choose-a-moisturizer-for-dry-skin",
-    "how-to-choose-a-vitamin-c-serum-for-brightening"
+    "how-to-choose-a-vitamin-c-serum-for-brightening",
+    "how-to-build-a-sensitive-skin-routine",
+    "how-to-build-an-acne-prone-skincare-routine",
+    "how-to-choose-a-sunscreen-for-sensitive-skin",
+    "how-to-choose-a-retinol-serum-or-cream",
+    "how-to-choose-an-acne-spot-treatment",
+    "how-to-choose-fragrance-free-skincare"
   ],
   "categorySlugs": [
     "cleansers",
@@ -177,6 +185,12 @@
     "cerave-foaming-facial-cleanser-vs-cetaphil-face-wash-sensitive-combination-to-oily-skin",
     "vanicream-facial-moisturizer-with-hyaluronic-acid-for-sensitive-skin-vs-toleriane-double-repair-face-moisturiser",
     "good-molecules-lightweight-daily-moisturizer-vs-byoma-moisturizing-gel-cream",
-    "vanicream-vitamin-c-serum-vs-roche-posay-pure-12-vitamin-c-serum"
+    "vanicream-vitamin-c-serum-vs-roche-posay-pure-12-vitamin-c-serum",
+    "cerave-hydrating-facial-cleanser-for-daily-face-washing-vs-panoxyl-10-benzoyl-peroxide-acne-foaming-wash",
+    "toleriane-purifying-foaming-facial-cleanser-vs-cetaphil-face-wash",
+    "eltamd-uv-clear-face-sunscreen-spf-46-vs-haruharu-wonder-black-rice-moisture-airyfit-daily-sunscreen-spf50-pa-non-greasy",
+    "cerave-salicylic-acid-cleanser-vs-effaclar-medicated-gel-cleanser",
+    "vanicream-gentle-facial-cleanser-with-pump-dispenser-vs-aveeno-calm-and-restore-nourishing-oat-cleanser",
+    "the-ordinary-retinol-1-in-squalane-vs-cerave-cerave-resurfacing-retinol-serum-for-post-acne-marks"
   ]
 }

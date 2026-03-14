@@ -10,8 +10,6 @@ type Props = {
 
 const CORE_FILTERS = [
   { id: "all", label: "All" },
-  { id: "featured", label: "Featured" },
-  { id: "value", label: "Best Value" },
   { id: "premium", label: "Premium" }
 ] as const;
 
@@ -49,14 +47,6 @@ export function CapsuleCollection({ products }: Props) {
   const visibleProducts = useMemo(() => {
     if (activeTab === "all") {
       return products;
-    }
-
-    if (activeTab === "featured") {
-      return products.filter((item) => item.tags.includes("featured") || item.tags.includes("editor-choice"));
-    }
-
-    if (activeTab === "value") {
-      return products.filter((item) => item.tags.includes("value") || item.tags.includes("starter"));
     }
 
     if (activeTab === "premium") {

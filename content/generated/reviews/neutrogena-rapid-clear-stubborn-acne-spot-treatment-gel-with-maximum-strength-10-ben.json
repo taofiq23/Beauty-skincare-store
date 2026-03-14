@@ -36,20 +36,12 @@
   ],
   "featureSnapshot": [
     {
-      "label": "Product type",
-      "value": "Acne treatment"
+      "label": "Category",
+      "value": "Treatments"
     },
     {
-      "label": "Main skin goal",
-      "value": "Acne control"
-    },
-    {
-      "label": "Texture / format",
-      "value": "Gel-cream texture"
-    },
-    {
-      "label": "Routine slot",
-      "value": "Targeted treatment step"
+      "label": "Routine role",
+      "value": "Targeted routine support"
     },
     {
       "label": "Price range",
@@ -103,28 +95,37 @@
   ],
   "alternatives": [
     {
-      "label": "Top alternative",
-      "title": "eos Shea Better Body Lotion Vanilla Cashmere",
-      "summary": "eos Shea Better Body Lotion Vanilla Cashmere is worth opening next if you want to compare a different acne treatment angle before making the final Amazon click.",
-      "priceText": "$9-$12",
-      "reviewUrl": "/reviews/eos-shea-better-body-lotion-vanilla"
-    },
-    {
       "label": "Value alternative",
       "title": "Vanicream Vitamin C Serum",
-      "summary": "Vanicream Vitamin C Serum is worth opening next if you want to compare a different acne treatment angle before making the final Amazon click.",
+      "summary": "Vanicream Vitamin C Serum is worth opening next if you want a different take on this moisturizer category before checkout.",
       "priceText": "Check Amazon",
       "reviewUrl": "/reviews/vanicream-vanicream-vitamin-c-serum"
     },
     {
       "label": "Another option",
       "title": "Vanicream Facial Moisturizer With Hyaluronic Acid For Sensitive Skin",
-      "summary": "Vanicream Facial Moisturizer With Hyaluronic Acid For Sensitive Skin is worth opening next if you want to compare a different acne treatment angle before making the final Amazon click.",
+      "summary": "Vanicream Facial Moisturizer With Hyaluronic Acid For Sensitive Skin is worth opening next if you want a different take on this moisturizer category before checkout.",
       "priceText": "$22-$28",
       "reviewUrl": "/reviews/vanicream-facial-moisturizer-with-hyaluronic-acid-for-sensitive-skin"
     }
   ],
-  "comparisons": [],
+  "comparisons": [
+    {
+      "title": "Differin Acne Treatment Gel Vs Persa-Gel 10 Spot Treatment",
+      "summary": "A spot-treatment comparison for readers choosing between a more routine-style acne treatment gel and a stronger benzoyl peroxide blemish product.",
+      "url": "/compare/acne-treatment-gel-vs-persa-gel-10-oil-free-acne-spot-treatment-with-maximum-strength-10-benzoyl-peroxide"
+    },
+    {
+      "title": "Neutrogena Rapid Clear Spot Treatment Vs AcneFree Terminator 10",
+      "summary": "A benzoyl peroxide spot-treatment comparison for readers deciding between two stronger blemish products with similar strength on paper.",
+      "url": "/compare/neutrogena-rapid-clear-stubborn-acne-spot-treatment-gel-with-maximum-strength-10-ben-vs-acnefree-terminator-10-acne-spot-treatment-with-benzoyl-peroxide-10-maximum-strength"
+    },
+    {
+      "title": "Hero Mighty Patch Original Vs Differin Acne Treatment Gel",
+      "summary": "A blemish-support comparison for readers deciding whether a patch or a treatment gel fits the problem better.",
+      "url": "/compare/mighty-patch-original-patch-from-hero-vs-acne-treatment-gel"
+    }
+  ],
   "faq": [
     {
       "question": "Is Neutrogena Rapid Clear Stubborn Acne Spot Treatment Gel with Maximum Strength 10% Ben... worth it at the current price?",
@@ -154,26 +155,41 @@
       "title": "How To Choose A Moisturizer",
       "summary": "Use this guide to compare gels, creams, lotions, and simpler hydration-first picks.",
       "url": "/guides/how-to-choose-a-moisturizer"
+    },
+    {
+      "title": "How To Build An Acne-Prone Skincare Routine Without Overdoing It",
+      "summary": "A detailed acne-prone routine guide that helps readers balance cleanser, spot treatment, retinoid support, moisturizer, and sunscreen without creating a harsher routine than necessary.",
+      "url": "/guides/how-to-build-an-acne-prone-skincare-routine"
+    },
+    {
+      "title": "How To Choose An Acne Spot Treatment",
+      "summary": "A practical acne spot-treatment guide for readers comparing benzoyl peroxide, sulfur, gel, cream, and patch-style support before they buy.",
+      "url": "/guides/how-to-choose-an-acne-spot-treatment"
+    },
+    {
+      "title": "How To Choose An Acne Patch",
+      "summary": "A buyer-first guide for readers comparing acne patches, overnight blemish coverage, and daytime patch options without overpaying for a patch that does not fit their routine.",
+      "url": "/guides/how-to-choose-an-acne-patch"
     }
   ],
   "relatedReviews": [
     {
-      "title": "eos Shea Better Body Lotion Vanilla Cashmere Review",
-      "summary": "eos Shea Better Body Lotion Vanilla Cashmere is another useful review to open if you want a cleaner comparison on formula fit, daily use, and value before checkout.",
-      "url": "/reviews/eos-shea-better-body-lotion-vanilla"
-    },
-    {
       "title": "Vanicream Vitamin C Serum Review",
-      "summary": "Vanicream Vitamin C Serum is another useful review to open if you want a cleaner comparison on formula fit, daily use, and value before checkout.",
+      "summary": "Vanicream Vitamin C Serum is another practical option if you want to compare buyer fit, daily use, and price before checkout.",
       "url": "/reviews/vanicream-vanicream-vitamin-c-serum"
     },
     {
       "title": "Vanicream Facial Moisturizer With Hyaluronic Acid For Sensitive Skin Review",
-      "summary": "Vanicream Facial Moisturizer With Hyaluronic Acid For Sensitive Skin is another useful review to open if you want a cleaner comparison on formula fit, daily use, and value before checkout.",
+      "summary": "Vanicream Facial Moisturizer With Hyaluronic Acid For Sensitive Skin is another practical option if you want to compare buyer fit, daily use, and price before checkout.",
       "url": "/reviews/vanicream-facial-moisturizer-with-hyaluronic-acid-for-sensitive-skin"
     }
   ],
   "disclosureText": "Affiliate links on this page may earn a commission if a reader clicks through and completes a purchase.",
   "reviewMethodology": "This review is written for skincare buyers who need a cleaner decision path. The evaluation looks at formula fit, texture, routine friction, price context, shopper proof, and whether the product seems easy to keep using after the initial purchase excitement wears off.",
-  "tone": "from-[#e2e7ef] to-[#8aa4c3]"
+  "tone": "from-[#e2e7ef] to-[#8aa4c3]",
+  "relatedComparisons": [
+    "acne-treatment-gel-vs-persa-gel-10-oil-free-acne-spot-treatment-with-maximum-strength-10-benzoyl-peroxide",
+    "neutrogena-rapid-clear-stubborn-acne-spot-treatment-gel-with-maximum-strength-10-ben-vs-acnefree-terminator-10-acne-spot-treatment-with-benzoyl-peroxide-10-maximum-strength",
+    "mighty-patch-original-patch-from-hero-vs-acne-treatment-gel"
+  ]
 }

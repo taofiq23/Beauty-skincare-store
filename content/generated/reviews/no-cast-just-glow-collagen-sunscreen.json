@@ -36,20 +36,12 @@
   ],
   "featureSnapshot": [
     {
-      "label": "Product type",
-      "value": "Sunscreen"
+      "label": "Category",
+      "value": "Treatments"
     },
     {
-      "label": "Main skin goal",
-      "value": "Brightening and tone support"
-    },
-    {
-      "label": "Texture / format",
-      "value": "Routine-friendly format"
-    },
-    {
-      "label": "Routine slot",
-      "value": "Final morning protection step"
+      "label": "Routine role",
+      "value": "Targeted routine support"
     },
     {
       "label": "Price range",
@@ -103,28 +95,34 @@
   ],
   "alternatives": [
     {
-      "label": "Top alternative",
+      "label": "Alternative to compare",
       "title": "Hero Mighty Patch Original",
-      "summary": "Hero Mighty Patch Original is worth opening next if you want to compare a different sunscreen angle before making the final Amazon click.",
+      "summary": "Hero Mighty Patch Original is worth opening next if you want a different take on this treatment category before checkout.",
       "priceText": "$11-$15",
       "reviewUrl": "/reviews/mighty-patch-original-patch-from-hero"
     },
     {
       "label": "Value alternative",
       "title": "TOLERIANE soin lavat anti-inconforts anti-sécheresses",
-      "summary": "TOLERIANE soin lavat anti-inconforts anti-sécheresses is worth opening next if you want to compare a different sunscreen angle before making the final Amazon click.",
+      "summary": "TOLERIANE soin lavat anti-inconforts anti-sécheresses is worth opening next if you want a different take on this treatment category before checkout.",
       "priceText": "$42-$52",
       "reviewUrl": "/reviews/toleriane-soin-lavat-anti-inconforts-anti-s-cheresses"
     },
     {
       "label": "Another option",
       "title": "Garnier SkinActive Micellar Cleansing Water",
-      "summary": "Garnier SkinActive Micellar Cleansing Water is worth opening next if you want to compare a different sunscreen angle before making the final Amazon click.",
+      "summary": "Garnier SkinActive Micellar Cleansing Water is worth opening next if you want a different take on this treatment category before checkout.",
       "priceText": "$20-$26",
       "reviewUrl": "/reviews/garnier-skinactive-micellar-cleansing-water"
     }
   ],
-  "comparisons": [],
+  "comparisons": [
+    {
+      "title": "Haruharu Wonder Black Rice Daily Sunscreen vs Medicube No Cast Just Glow Collagen Sunscreen",
+      "summary": "A daily sunscreen comparison for readers choosing between lighter airy sunscreen wear and a more glow-leaning no-cast sunscreen finish.",
+      "url": "/compare/haruharu-wonder-black-rice-moisture-airyfit-daily-sunscreen-spf50-pa-non-greasy-vs-no-cast-just-glow-collagen-sunscreen"
+    }
+  ],
   "faq": [
     {
       "question": "Is No Cast Just Glow Collagen Sunscreen worth it at the current price?",
@@ -154,26 +152,42 @@
       "title": "How To Choose Acne Treatment Products",
       "summary": "Use this guide to compare patches, pads, and other targeted acne-care formats.",
       "url": "/guides/how-to-choose-acne-treatment"
+    },
+    {
+      "title": "How To Choose A Sunscreen For Daily Use",
+      "summary": "Use this guide to compare face sunscreens, tinted SPF options, and mineral formulas before moving into shortlist pages and final reviews.",
+      "url": "/guides/how-to-choose-a-sunscreen"
     }
   ],
   "relatedReviews": [
     {
       "title": "Hero Mighty Patch Original Review",
-      "summary": "Hero Mighty Patch Original is another useful review to open if you want a cleaner comparison on formula fit, daily use, and value before checkout.",
+      "summary": "Hero Mighty Patch Original is another practical option if you want to compare buyer fit, daily use, and price before checkout.",
       "url": "/reviews/mighty-patch-original-patch-from-hero"
     },
     {
       "title": "TOLERIANE soin lavat anti-inconforts anti-sécheresses Review",
-      "summary": "TOLERIANE soin lavat anti-inconforts anti-sécheresses is another useful review to open if you want a cleaner comparison on formula fit, daily use, and value before checkout.",
+      "summary": "TOLERIANE soin lavat anti-inconforts anti-sécheresses is another practical option if you want to compare buyer fit, daily use, and price before checkout.",
       "url": "/reviews/toleriane-soin-lavat-anti-inconforts-anti-s-cheresses"
     },
     {
       "title": "Garnier SkinActive Micellar Cleansing Water Review",
-      "summary": "Garnier SkinActive Micellar Cleansing Water is another useful review to open if you want a cleaner comparison on formula fit, daily use, and value before checkout.",
+      "summary": "Garnier SkinActive Micellar Cleansing Water is another practical option if you want to compare buyer fit, daily use, and price before checkout.",
       "url": "/reviews/garnier-skinactive-micellar-cleansing-water"
     }
   ],
   "disclosureText": "Affiliate links on this page may earn a commission if a reader clicks through and completes a purchase.",
   "reviewMethodology": "This review is written for skincare buyers who need a cleaner decision path. The evaluation looks at formula fit, texture, routine friction, price context, shopper proof, and whether the product seems easy to keep using after the initial purchase excitement wears off.",
-  "tone": "from-[#ede6db] to-[#c5a57b]"
+  "tone": "from-[#ede6db] to-[#c5a57b]",
+  "relatedComparisons": [],
+  "relatedProducts": [
+    "eltamd-uv-clear-face-sunscreen-spf-46",
+    "eltamd-uv-clear-tinted-face-sunscreen",
+    "blue-lizard-sensitive-mineral-sunscreen-with-zinc-oxide-50-water-resistant-uvauvb-pr",
+    "hydrating-mineral-sunscreen-spf-30-with-sheer-tint",
+    "haruharu-wonder-black-rice-moisture-airyfit-daily-sunscreen-spf50-pa-non-greasy"
+  ],
+  "tags": [
+    "sunscreen"
+  ]
 }

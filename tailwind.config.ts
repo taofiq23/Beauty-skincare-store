@@ -8,15 +8,15 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        base: "#F7F5F2",
-        "base-2": "#F6F5F2",
-        secondary: "#1F1F1F",
-        accent: "#C8A96B",
-        soft: "#EDE9E3"
+        base: "#F6F8FB",
+        "base-2": "#FFFFFF",
+        secondary: "#111111",
+        accent: "#FFD814",
+        soft: "#F0F2F2"
       },
       fontFamily: {
-        display: ["var(--font-display)", "serif"],
-        sans: ["var(--font-sans)", "system-ui", "sans-serif"]
+        display: ["var(--font-sans)", "Arial", "Helvetica", "sans-serif"],
+        sans: ["var(--font-sans)", "Arial", "Helvetica", "sans-serif"]
       },
       boxShadow: {
         luxe: "0 20px 50px rgba(0,0,0,0.08)"

@@ -20,7 +20,7 @@ export default function DisclosurePage() {
         <article className="border border-black/10 p-6">
           <h2 className="text-xs uppercase tracking-[0.2em] text-secondary/70">What It Means</h2>
           <p className="mt-3 text-sm leading-relaxed text-secondary/80">
-            If a visitor clicks a qualifying retailer link and makes a purchase, HomeSelect Daily may receive a commission from that retailer.
+            If a visitor clicks a qualifying retailer link and makes a purchase, Skincare Picks Guide may receive a commission from that retailer.
           </p>
         </article>
         <article className="border border-black/10 p-6">

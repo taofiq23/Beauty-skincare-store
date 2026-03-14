@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { JsonLd } from "@/components/json-ld";
+import { TrackedAffiliateLink } from "@/components/tracked-affiliate-link";
 import { SiteBreadcrumbs } from "@/components/site-breadcrumbs";
 import { InternalLinkGrid } from "@/components/internal-link-grid";
 import { isAmazonImageUrl, resolveProductImageUrl } from "@/lib/generated-content-normalizers";
@@ -133,14 +134,15 @@ export function BestListPageTemplate({ page }: Props) {
                     <Link href={`/reviews/${product.slug}`} className="btn-commerce-primary px-4 py-3 text-[10px] tracking-[0.18em] sm:tracking-[0.22em]">
                       Read Review
                     </Link>
-                    <a
+                    <TrackedAffiliateLink
                       href={product.affiliateLinks[0]?.affiliateUrl}
                       target="_blank"
                       rel="noreferrer sponsored"
+                      signal={{ slug: product.slug, slot: "best-list-card", destination: product.affiliateLinks[0]?.retailerName }}
                       className="btn-commerce-secondary px-4 py-3 text-[10px] tracking-[0.18em] sm:tracking-[0.22em]"
                     >
                       {product.affiliateLinks[0]?.ctaLabel ?? "Check Deal"}
-                    </a>
+                    </TrackedAffiliateLink>
                   </div>
                 </div>
               </article>

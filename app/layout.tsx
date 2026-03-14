@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Cormorant_Garamond, Inter } from "next/font/google";
+import { Inter } from "next/font/google";
 import "./globals.css";
 import { SiteFooter } from "@/components/site-footer";
 import { SiteHeader } from "@/components/site-header";
@@ -8,13 +8,6 @@ import { siteConfig } from "@/lib/site-data";
 const inter = Inter({
   subsets: ["latin"],
   variable: "--font-sans",
-  display: "swap"
-});
-
-const cormorantGaramond = Cormorant_Garamond({
-  subsets: ["latin"],
-  variable: "--font-display",
-  weight: ["400", "500", "600", "700"],
   display: "swap"
 });
 
@@ -51,7 +44,7 @@ export default function RootLayout({
         <meta {...(impactVerificationMeta as any)} />
         <meta {...googleVerificationMeta} />
       </head>
-      <body className={`${inter.variable} ${cormorantGaramond.variable}`}>
+      <body className={`${inter.variable}`}>
         <SiteHeader />
         <main>{children}</main>
         <SiteFooter />
