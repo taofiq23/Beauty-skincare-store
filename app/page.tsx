@@ -7,7 +7,7 @@ import { buildMetadata } from "@/lib/seo";
 
 export const metadata: Metadata = buildMetadata({
   title: "Beauty & Skincare Reviews, Guides, and Product Picks",
-  description: "Compare cleansers, moisturizers, acne treatments, and daily skincare essentials with practical reviews, guides, and shortlist pages.",
+  description: "Skincare reviews, routine guides, and top picks for cleansers, moisturizers, treatments, and daily routine staples.",
   pathname: "/"
 });
 

@@ -62,24 +62,24 @@ export function CapsuleCollection({ products }: Props) {
   }, [activeTab, products]);
 
   return (
-    <section className="py-16 md:py-24">
+    <section className="py-12 md:py-24">
       <div className="px-4 sm:px-5 md:px-10">
-        <div className="mb-10 border-b border-black/10 pb-8 text-center md:mb-12 md:pb-10">
+        <div className="mb-8 border-b border-black/10 pb-6 text-center md:mb-12 md:pb-10">
           <div className="mx-auto max-w-4xl">
-            <p className="kicker text-xs tracking-[0.25em] text-black/70">TOP PICKS AND FEATURED REVIEWS</p>
-            <h2 className="mt-4 font-display text-[2rem] leading-[0.95] sm:text-4xl md:text-5xl">Top Picks Worth Opening First</h2>
-            <p className="mx-auto mt-5 max-w-xl text-[15px] leading-7 text-black/72 md:mt-6">
+            <p className="kicker text-[10px] tracking-[0.24em] text-black/70 md:text-xs md:tracking-[0.25em]">TOP PICKS AND FEATURED REVIEWS</p>
+            <h2 className="mt-3 font-display text-[1.75rem] leading-[0.96] sm:text-4xl md:mt-4 md:text-5xl">Top Picks Worth Opening First</h2>
+            <p className="mx-auto mt-4 max-w-xl text-[14px] leading-6 text-black/72 md:mt-6 md:text-[15px] md:leading-7">
               Browse the strongest product reviews first, compare shortlists faster, and move toward the right retailer page with less guesswork
             </p>
           </div>
         </div>
 
-        <div className="mb-10 flex flex-wrap items-center justify-center gap-x-5 gap-y-4 border-b border-black/10 pb-5 sm:gap-x-7 md:mb-12 md:gap-x-10 md:pb-6">
+        <div className="mb-8 flex flex-wrap items-center justify-center gap-x-4 gap-y-3 border-b border-black/10 pb-4 sm:gap-x-5 md:mb-12 md:gap-x-10 md:gap-y-4 md:pb-6">
           {tabs.map((item) => (
             <button
               key={item.id}
               onClick={() => setActiveTab(item.id)}
-              className={`pb-2 text-[11px] uppercase tracking-[0.18em] transition-all duration-300 sm:text-xs sm:tracking-[0.2em] ${
+              className={`pb-2 text-[10px] uppercase tracking-[0.14em] transition-all duration-300 sm:text-[11px] sm:tracking-[0.16em] md:text-xs md:tracking-[0.2em] ${
                 activeTab === item.id ? "border-b border-black text-black" : "text-black/62 hover:text-black"
               }`}
             >
@@ -88,7 +88,7 @@ export function CapsuleCollection({ products }: Props) {
           ))}
         </div>
 
-        <div className="grid grid-cols-2 gap-x-3 gap-y-6 sm:gap-x-6 sm:gap-y-10 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5">
+        <div className="grid grid-cols-2 gap-x-3 gap-y-4 sm:gap-x-5 sm:gap-y-8 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5">
           {visibleProducts.map((product) => (
             <AffiliateProductCard key={product.slug} product={product} />
           ))}
